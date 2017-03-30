@@ -1,9 +1,7 @@
-Getting Started
+UMOnline Documentation & References
 ===============
 
-This document will show you how to get up and running with Read the Docs.
-You will have your docs imported on Read the Docs in 5 minutes,
-displayed beautifully for the world.
+This manual contains the latest information about our policies and procedures, our instance of Moodle, and the latest instructional information detailling common processes in our department.
 
 If you are already using Sphinx or Markdown for your docs, skip ahead to
 :ref:`import-docs`.
